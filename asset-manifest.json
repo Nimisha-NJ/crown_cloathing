@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nimisha-NJ/crown_cloathing.git/static/css/main.08275f8a.css",
+    "main.js": "/Nimisha-NJ/crown_cloathing.git/static/js/main.7b8c55c0.js",
+    "static/media/shopping-bag.svg": "/Nimisha-NJ/crown_cloathing.git/static/media/shopping-bag.a688874f6f1507316bdfa420328a4a53.svg",
+    "static/media/crown.svg": "/Nimisha-NJ/crown_cloathing.git/static/media/crown.3a4e2b15908e7a4c25343677d232b7e6.svg",
+    "index.html": "/Nimisha-NJ/crown_cloathing.git/index.html",
+    "main.08275f8a.css.map": "/Nimisha-NJ/crown_cloathing.git/static/css/main.08275f8a.css.map",
+    "main.7b8c55c0.js.map": "/Nimisha-NJ/crown_cloathing.git/static/js/main.7b8c55c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08275f8a.css",
+    "static/js/main.7b8c55c0.js"
+  ]
+}
